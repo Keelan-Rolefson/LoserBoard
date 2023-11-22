@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: #0c0c0c;
+}
+body .wrap {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+body .container {
+  justify-content: center;
+}
+body .header_wrap .login_inputs__wrap {
+  width: 420px;
+  height: 120px;
+}
+
+/*# sourceMappingURL=index.css.map */
